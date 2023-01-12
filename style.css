@@ -1,0 +1,58 @@
+h1 {
+font-size: 100px;
+flex-wrap: wrap;
+background-color: #04498a;
+padding-top: 50px;
+padding-left: 50px;
+padding-right: 50px;
+padding-bottom: 50px;
+text-align: center;
+color: white;
+border-radius: 200px;
+}
+
+#img {
+  text-align: center;
+}
+
+#Paragraph {
+  text-align: center;
+  font-size: 25px;
+}
+
+#About-me {
+  font-size: 50px;
+  text-align: left; 
+}
+
+button {
+    width: 250px;
+    margin: 0 .5%;
+    font-size: 200%;
+    color: #04498a;
+    background-color: #fff;
+    border: 3px solid #04498a;
+    flex-wrap: wrap;
+    text-align: center;
+  }
+
+  button:hover {
+    background-color: #c4210b;
+    color: #fff;
+  }
+
+  button:active {
+    font-size: 180%;
+    box-shadow: 0 0 10px #000 inset;
+  }
+
+  button:focus {
+    outline: none;
+    border-color: #8ac4ff;
+  }
+  
+  h3 {
+    font-size: 50px;
+    flex-wrap: wrap;
+    
+  }
